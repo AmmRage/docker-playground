@@ -1,0 +1,1 @@
+docker container run -d --name koademo --rm -p 8000:3000 -it koa-demo:latest
